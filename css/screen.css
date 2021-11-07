@@ -15,3 +15,49 @@ html {
   padding-right: 16px;
   padding-bottom: 16px;
 }
+
+#header{
+  font-size: 3em;
+  line-height: 2.2em;
+  padding-bottom: .25em;
+}
+
+.h-card {
+  font-size: 1em;
+  line-height: 1.2em;
+  padding-bottom: 2em;
+}
+
+#education,
+#work-experience,
+#extracurriculars {
+  font-size: 2.2em;
+  line-height: 1em;
+  padding-bottom: .5em;
+}
+
+.studies,
+.companyname-date-jobtitle1,
+.companyname-date-jobtitle2,
+.companyname-date-jobtitle3,
+.extracurricular-name {
+  padding-top: .25em;
+  font-size: .7em;
+  line-height: 1em;
+  padding-bottom: .5em;
+}
+
+.date-location-duration,
+.role1,
+.role2,
+.role3 {
+  font-size: .5em;
+  line-height: 1em;
+  padding-bottom: 1em;
+}
+
+#navigation {
+  padding-top: 1em;
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
