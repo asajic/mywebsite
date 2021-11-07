@@ -61,3 +61,14 @@ html {
   font-size: 1.2em;
   line-height: 1.5em;
 }
+
+.aboutme {
+  font-size: 2em;
+  line-height: 1.5;
+}
+
+#aboutme-body {
+  font-size: .8em;
+  line-height: 1em;
+  padding-bottom: 2em;
+}
