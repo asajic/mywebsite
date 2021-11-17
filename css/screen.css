@@ -9,30 +9,31 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles below */
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.125em; /* 18 / 16 = 1.125 */
-  line-height: 1.33em; /* 24 / 18 = 1.33 */
-  background-color: #2a2727;
+  font-size: 1em; /* 16 / 16 = 1 */
+  line-height: 1.25em; /* 20 / 16 = 1.25 */
+  background-color: #c1c8e4;
   text-align: left;
-  margin: 10px;
 }
 
 #header{
-  font-size: 3em;
-  line-height: 2.2em;
-  padding-bottom: .25em;
+  font-size: 2em; /* 32/16 = 2 */
+  line-height: 2.5em; /* 40/16 = 2.5em  */
+  background-color: #84ceeb;
+  font-family:"proxima-nova", sans-serif;
+  font-weight: bold;
 }
 
 .h-card {
-  font-size: 1em;
-  line-height: 1.2em;
+  font-size: 1em; /* 16 / 16 = 1 */
+  line-height: 1.25em; /* 20 / 16 = 1.25 */
   padding-bottom: 2em;
 }
 
 #education,
 #work-experience,
 #extracurriculars {
-  font-size: 2.2em;
-  line-height: 1em;
+  font-size: 1.5em; /* 24 / 16 = 1.5 */
+  line-height: 1.75em; /* 28 / 16 = 1.75 */
   padding-bottom: .5em;
 }
 
@@ -42,8 +43,8 @@ html {
 .companyname-date-jobtitle3,
 .extracurricular-name {
   padding-top: .25em;
-  font-size: .7em;
-  line-height: 1em;
+  font-size: 1em; /* 16/16 = 1 */
+  line-height: 1.25em; /* 20 / 16 = 1.25 */
   padding-bottom: .5em;
 }
 
@@ -51,24 +52,24 @@ html {
 .role1,
 .role2,
 .role3 {
-  font-size: .5em;
-  line-height: 1em;
+  font-size: .75em; /* 12 / 16 = .75 */
+  line-height: 1em; /* 16 / 16 = 1 */
   padding-bottom: 1em;
 }
 
 #navigation {
   padding-top: 1em;
-  font-size: 1.2em;
-  line-height: 1.5em;
+  font-size: 1.5em; /* 24/16=1.5 */
+  line-height: 1.75em; /* 28/16=1.75*/
 }
 
 .aboutme {
-  font-size: 2em;
-  line-height: 1.5;
+  font-size: 1.5em; /* 24/16 = 1.5 */
+  line-height: 1.75; /* 28/16 = 1.75 */
 }
 
 #aboutme-body {
-  font-size: .8em;
-  line-height: 1em;
+  font-size: 1em; /* 16 / 16 = 1*/
+  line-height: 1.25em; /* 20/16=1 */
   padding-bottom: 2em;
 }
