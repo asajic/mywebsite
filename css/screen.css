@@ -21,6 +21,7 @@ html {
   background-color: #84ceeb;
   font-family:"proxima-nova", sans-serif;
   font-weight: bold;
+  text-align: center;
 }
 
 .h-card {
@@ -75,7 +76,7 @@ html {
 }
 
 img {
-  max-width: 30%;
+  max-width: 100%;
   display: block;
 }
 
